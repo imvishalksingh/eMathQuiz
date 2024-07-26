@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">eMathQuiz</string>
+    <string name="Level">LEVEL</string>
+    <string name="Play">PLAY</string>
+</resources>
